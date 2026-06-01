@@ -5,7 +5,7 @@
 </p>
 
 ### 🔭 Şu An Neler Yapıyorum?
-- **Optimizasyon** ve **LLM Modelleri** üzerine yoğunlaştım.
+- **Hermes Agent** ve **LLM Modelleri** üzerine çalışıyorum.
 
 ### 👯 İş Birliği
 - Genellikle solo çalışıyorum ancak yenilikçi proje fikirlerine açığım.
@@ -17,7 +17,6 @@
 
 ### 🌐 Sosyal Medya:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynchesttt) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lynchestt) 
 
 ### 💻 Teknolojiler (Tech Stack):
 
