@@ -15,9 +15,9 @@ I build software by orchestrating autonomous AI agents as a specialized engineer
 - **Simplicity & YAGNI Discipline:** Zero unnecessary abstractions, minimal dependencies, surgical diffs, and durable systems built to solve real problems.
 
 ### 🚀 Featured Projects
+- [**GameTrack**](https://gametrack.lynchest.app) — Production-grade video game library & collection management platform with Steam sync, IGDB integration, personalized stats, and PWA capabilities. *(Live web application)*
 - [**runnel**](https://github.com/lynchest/probe-gate) — High-performance HTTP egress gateway written in Go featuring per-domain token-bucket rate limiting, circuit breaking, priority request queuing, and SQLite-backed response caching.
 - [**MailShift**](https://github.com/lynchest/MailShift) — Privacy-first junk mail and newsletter cleaner for Gmail & Proton Mail powered by local LLMs (Ollama / LM Studio) and concurrent multi-threaded IMAP processing.
-- [**GameTrack**](https://gametrack.lynchest.app) — Production-grade video game library & collection management platform with Steam sync, IGDB integration, personalized stats, and PWA capabilities. *(Live web application)*
 
 ### 👯 Collaboration & Contact
 - Open to discussing autonomous agent architectures, open-source systems, and technical collaborations.
