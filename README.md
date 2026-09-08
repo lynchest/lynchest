@@ -1,39 +1,38 @@
-# 💫 Selam, Ben @lynchest! 
+# 💫 Hey, I'm @lynchest!
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@lynchest?theme=asoul" alt="Ziyaretçi Sayısı" />
+  <img src="https://count.getloli.com/get/@lynchest?theme=asoul" alt="Visitor Count" />
 </p>
 
-### 🔭 Şu An Neler Yapıyorum?
-- Otonom **AI Agent Orkestrasyonu** (Hermes Agent vb.) ile uçtan uca modern sistemler geliştiriyorum.
+### 🔭 Current Focus
+- Orchestrating autonomous **AI Agent Workflows** to design and ship resilient, end-to-end software systems.
+- Designing self-hosted infrastructure, local AI tooling, and peer-to-peer applications.
 
-### 🧠 Çalışma Metodolojisi & Mühendislik Yaklaşımı
-Projelerimi otonom yapay zeka ajanlarını bir yazılım ekibi gibi koordine ederek inşa ediyorum:
-- **Spec-Driven Architecture:** Koda geçmeden önce mimariyi, veri modellerini, sistem sınırlarını ve kontratları netleştiriyorum.
-- **Black-Box & Eval-Driven Doğrulama:** Kodun her satırını manuel incelemek yerine; kapsamlı otomatik testler (unit/integration/E2E), davranışsal kontroller ve gerçek çalışma çıktılarıyla kaliteyi doğruluyorum.
-- **Yalınlık Disiplini (YAGNI):** Sıfır gereksiz bağımlılık, amaca odaklı cerrahi değişiklikler ve sürdürülebilir temiz mimari.
+### 🧠 Engineering Philosophy & Agent Orchestration
+I build software by orchestrating autonomous AI agents as a specialized engineering crew:
+- **Spec-Driven Architecture:** I define domain models, architectural boundaries, edge cases, and strict contracts before any code is generated.
+- **Eval-Driven & Behavioral Verification:** Rather than manually reading boilerplate line by line, I enforce quality through comprehensive automated test suites (Unit, Integration, E2E), deterministic benchmarks, and observable runtime validation.
+- **Simplicity & YAGNI Discipline:** Zero unnecessary abstractions, minimal dependencies, surgical diffs, and durable systems built to solve real problems.
 
-### 👯 İş Birliği
-- Genellikle solo çalışıyorum ancak yenilikçi proje fikirlerine açığım.
+### 🚀 Featured Projects
+- [**ZeroNode**](https://github.com/lynchest/ZeroNode) — Serverless peer-to-peer file transfer over WebRTC with end-to-end encryption.
+- [**runnel (probe-gate)**](https://github.com/lynchest/probe-gate) — Secure HTTP egress gateway with strict policy evaluation and loopback filtering.
+- [**VisionLate**](https://github.com/lynchest/visionlate) — Real-time camera OCR and translation powered by Apple Neural Engine (ANE) acceleration.
+- [**GameTrack**](https://github.com/lynchest/GameTrack) — Modern gaming library management and discovery tracking platform.
 
-### ⚡ Eğlenceli Bilgi
-- Sadece yeni bir şeyler yaratmanın verdiği keyif için kod yazıyorum.
+### 👯 Collaboration & Contact
+- Open to discussing autonomous agent architectures, open-source ideas, and technical collaborations.
+- Connect: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynchesttt)
 
 ---
 
-### 🌐 Sosyal Medya:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynchesttt) 
+### 💻 Tech Stack & Tooling
 
-### 💻 Teknolojiler (Tech Stack):
+#### **Systems, AI & Testing**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
 
-#### **Frontend**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+#### **Frontend & UI**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-#### **State & Routing**
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-
-#### **Backend & Infrastructure**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-
-#### **Tools & Others**
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+#### **Backend & Cloud Infrastructure**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
