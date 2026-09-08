@@ -5,7 +5,13 @@
 </p>
 
 ### 🔭 Şu An Neler Yapıyorum?
-- **Hermes Agent** ve **LLM Modelleri** üzerine çalışıyorum.
+- Otonom **AI Agent Orkestrasyonu** (Hermes Agent vb.) ile uçtan uca modern sistemler geliştiriyorum.
+
+### 🧠 Çalışma Metodolojisi & Mühendislik Yaklaşımı
+Projelerimi otonom yapay zeka ajanlarını bir yazılım ekibi gibi koordine ederek inşa ediyorum:
+- **Spec-Driven Architecture:** Koda geçmeden önce mimariyi, veri modellerini, sistem sınırlarını ve kontratları netleştiriyorum.
+- **Black-Box & Eval-Driven Doğrulama:** Kodun her satırını manuel incelemek yerine; kapsamlı otomatik testler (unit/integration/E2E), davranışsal kontroller ve gerçek çalışma çıktılarıyla kaliteyi doğruluyorum.
+- **Yalınlık Disiplini (YAGNI):** Sıfır gereksiz bağımlılık, amaca odaklı cerrahi değişiklikler ve sürdürülebilir temiz mimari.
 
 ### 👯 İş Birliği
 - Genellikle solo çalışıyorum ancak yenilikçi proje fikirlerine açığım.
