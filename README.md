@@ -24,4 +24,4 @@ I build software by directing AI agents like an engineering crew: I own the spec
 
 ### 👯 Contact
 Open to talking about agent architectures, open-source systems and collaborations.
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynchesttt)
+[![Email](https://img.shields.io/badge/hello%40lynchest.com-24292e?logo=gmail&logoColor=white)](mailto:hello@lynchest.com) [![X](https://img.shields.io/badge/@lynchesst-000000?logo=x&logoColor=white)](https://x.com/lynchesst) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynchesttt)
